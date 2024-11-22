@@ -1,4 +1,4 @@
-class UserException extends Exception{
+class UserException extends Exception {
     public UserException(String messege){
         super(messege);
     }
